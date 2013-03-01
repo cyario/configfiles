@@ -1,6 +1,10 @@
 set nobackup
 set noswapfile
 
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+
 " エンコーディング
 set termencoding=utf-8
 set encoding=utf-8 
