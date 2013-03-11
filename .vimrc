@@ -10,6 +10,9 @@ set termencoding=utf-8
 set encoding=utf-8 
 set fileencoding=utf-8
 
+" オートインデント
+set autoindent
+
 " syntax
 syntax on
 
